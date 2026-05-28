@@ -159,7 +159,7 @@ trend analysis, operational reporting, large dataset handling.
 
 **Stack:** Python · PostgreSQL · Power BI · SQL · Jupyter · pandas
 
-[![View Project](https://img.shields.io/badge/View_Project-2c3.e50?style=flat&logo=github&logoColor=white)](https://github.com/Kingsley-Eboh/nhs-rtt-analysis)
+[![View Project](https://img.shields.io/badge/View_Project-2c3e50?style=flat&logo=github&logoColor=white)](https://github.com/Kingsley-Eboh/nhs-rtt-analysis)
 
 ### NHS A&E: Emergency Care Analysis
 **The business question:** What is the scale of A&E performance
