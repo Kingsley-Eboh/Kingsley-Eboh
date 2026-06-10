@@ -311,10 +311,12 @@ professional analytical work and across every project in this portfolio.
 
 ## Currently Building
 
-**Sales Forecasting — Retail — In Progress June 2026**
+## Currently Building
+
+**Sales Forecasting — Retail**
 Predicting future sales volumes using historical transaction data to
 support inventory planning and revenue forecasting decisions.
 
-**Credit Card Fraud Detection — Finance — Planned July 2026**
+**Credit Card Fraud Detection — Finance**
 Identifying fraudulent transactions using anomaly detection and
 classification methods on imbalanced financial data.
