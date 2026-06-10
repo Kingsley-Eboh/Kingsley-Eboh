@@ -283,9 +283,9 @@ Stack: Windows Server 2022 · Active Directory · PowerShell · VirtualBox
 
 ## Certifications
 
-CompTIA Security+
-Google Cybersecurity Certificate
-
+CompTIA Security+<br>
+Google Cybersecurity Certificate<br>
+AWS Cloud Practitioner Essentials · Amazon Web Services
 ---
 
 ## How I Work
