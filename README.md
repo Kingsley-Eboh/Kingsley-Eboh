@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 
 <p align="center">
-Sheffield, UK &nbsp;|&nbsp;
+England &nbsp;|&nbsp;
 <a href="mailto:kingsley.eboh49@gmail.com">kingsley.eboh49@gmail.com</a> &nbsp;|&nbsp;
 <a href="https://linkedin.com/in/kingsleyeboh">linkedin.com/in/kingsleyeboh</a>
 </p>
