@@ -23,57 +23,25 @@ England &nbsp;|&nbsp;
 
 ## About Me
 
-I am a data analyst with seven years of experience working with complex
-datasets in environments where accuracy, governance and the reliability
-of analytical outputs directly affect the quality of decisions made.
-My work has consistently involved large scale data analysis, data quality
-assessment, root cause investigation, governance documentation and the
-communication of complex findings to both technical and non-technical
-audiences.
+I am a data analyst with seven years of experience working with complex datasets in environments where accuracy, governance and the reliability of analytical outputs directly affect the quality of decisions made. My work has involved large scale data analysis, data quality assessment, root cause investigation, governance documentation and explaining complex findings clearly to both technical and non-technical audiences.
 
-I came to data analytics through years of working in regulated
-environments where a single data error has direct consequences for
-real people. That background shapes everything about how I approach
-analytical work today.
+I came to data analytics through years spent in regulated environments, where a single data error had direct consequences for real people, where audit readiness was not optional, and where the line between a finding and a conclusion was treated with real seriousness. I have carried that discipline forward into every analytical problem I have worked on since, regardless of domain.
 
-I have worked in environments where data errors have real consequences,
-where audit readiness is a daily requirement and where the difference
-between a finding and a conclusion matters. That experience shapes how
-I approach every analytical problem regardless of domain or industry.
-
-The projects in this portfolio apply that experience to large scale
-real world datasets using Python, SQL, Power BI and machine learning.
-They are self-directed, independently built and fully documented,
-evidence of a standard I hold myself to regardless of whether anyone
-is watching.
+The projects in this portfolio are self-directed and independently built, using Python, SQL, Power BI and machine learning on real world datasets. I built them to hold myself to the same standard I would expect in any professional setting, whether or not anyone was reviewing the work.
 
 ---
 
 ## What Makes Me Different
 
-I ask whether my conclusion actually follows from my evidence. I think
-about who will read my findings and what they need to understand before
-I decide how to present them.
+I do not move forward with a finding until I have tested whether my conclusion actually follows from the evidence in front of me, rather than simply sounding plausible. I also think carefully about who will read the work and what they need from it, before I decide how to present it.
 
-I care about the person at the end of every analysis I carry out and
-the impact that analysis will have on the decision they are about to
-make. That keeps me honest about what I can and cannot claim, careful
-about how I communicate uncertainty and clear about the difference
-between what the data shows and what I think it means.
+I think about the person at the end of every analysis, and the decision they are about to make because of it. That keeps me honest about what I can and cannot claim, deliberate about how I communicate uncertainty, and precise about the distinction between what the data shows and what I believe it means.
 
-I do not need to be managed toward finishing something or reminded that
-accuracy matters. Both are reflections of a standard I hold myself to
-regardless of whether anyone is watching.
+I hold myself to a standard of accuracy and follow-through that does not require external pressure to maintain. That discipline is not for show, it is simply how I work.
 
-I apply the same care to how I handle data. I am mindful of access
-boundaries, protective of data integrity throughout the analytical
-process and aware that behind every dataset there are real people
-whose information has been entrusted to the organisations that hold it.
+I bring the same rigour to how I handle data itself. I am conscious of access boundaries, protective of data integrity throughout an analysis, and aware that behind every dataset are real people who trusted an organisation with their information.
 
-I have worked through problems alone and contributed to team efforts
-in professional settings where collaboration and clear communication
-produced better outcomes than either person would have reached
-independently. I know when to ask for input and when to get on with it.
+I have worked through problems independently and contributed to teams where open collaboration produced stronger outcomes than either person could have reached alone. I know the difference between situations that call for input and situations that call for getting on with the work.
 
 ---
 
@@ -130,7 +98,7 @@ to close their accounts, and what factors are driving that decision?
 product usage dimensions. XGBoost model tuned to 86.6% ROC-AUC with
 SHAP value analysis identifying Age, Number of Products and Member
 Activity Status as the three strongest predictors of churn. Delivered
-findings across 13 Python analyses, 12 SQL queries and a 2 page
+findings across 13 Python analyses, 12 SQL queries and a 3 page
 Power BI dashboard.
 
 Outcome: Germany recorded the highest churn rate at 32.4%, nearly
