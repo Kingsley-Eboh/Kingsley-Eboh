@@ -37,9 +37,7 @@ I do not move forward with a finding until I have tested whether my conclusion a
 
 I think about the person at the end of every analysis, and the decision they are about to make because of it. That keeps me honest about what I can and cannot claim, deliberate about how I communicate uncertainty, and precise about the distinction between what the data shows and what I believe it means.
 
-I hold myself to a standard of accuracy and follow-through that does not require external pressure to maintain. That discipline is not for show, it is simply how I work.
-
-I bring the same rigour to how I handle data itself. I am conscious of access boundaries, protective of data integrity throughout an analysis, and aware that behind every dataset are real people who trusted an organisation with their information.
+I hold myself to a standard of accuracy and follow through in every task I handle. I bring the same rigour to how I handle data itself. I am conscious of access boundaries, protective of data integrity throughout an analysis, and aware that behind every dataset are real people who trusted an organisation with their information.
 
 I have worked through problems independently and contributed to teams where open collaboration produced stronger outcomes than either person could have reached alone. I know the difference between situations that call for input and situations that call for getting on with the work.
 
