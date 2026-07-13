@@ -6,10 +6,10 @@ England &nbsp;|&nbsp;
 <a href="mailto:kingsley.eboh49@gmail.com">kingsley.eboh49@gmail.com</a> &nbsp;|&nbsp;
 <a href="https://linkedin.com/in/kingsleyeboh">linkedin.com/in/kingsleyeboh</a>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
@@ -27,7 +27,7 @@ I am a data analyst with seven years of experience working with complex datasets
 
 I came to data analytics through years spent in regulated environments, where a single data error had direct consequences for real people, where audit readiness was not optional, and where the line between a finding and a conclusion was treated with real seriousness. I have carried that discipline forward into every analytical problem I have worked on since, regardless of domain.
 
-The projects in this portfolio are self-directed and independently built, using Python, SQL, Power BI and machine learning on real world datasets. I built them to hold myself to the same standard I would expect in any professional setting, whether or not anyone was reviewing the work.
+The projects in this portfolio are self-directed and independently built, using Python, SQL, Power BI, cloud data platforms and machine learning on real world datasets. I built them to hold myself to the same standard I would expect in any professional setting, whether or not anyone was reviewing the work
 
 ---
 
@@ -53,6 +53,14 @@ SQL. Building end to end analytical pipelines from raw data sources to
 dashboard delivery. Identifying patterns, trends and anomalies in
 complex multi-variable datasets across regulated and operational
 environments.
+
+**Cloud Data Pipelines and Forecasting**
+Provisioning and connecting cloud data infrastructure on Microsoft
+Azure, including Blob Storage, Data Factory and Azure SQL Database.
+Building and backtesting time series forecasting models with Prophet,
+validated against benchmark baselines before use. Making informed
+engineering tradeoffs when tooling or connectors fail at scale, without
+compromising the correctness or traceability of the underlying logic.
 
 **Machine Learning and Predictive Analytics**
 Building, tuning and evaluating classification models using scikit-learn
@@ -81,14 +89,29 @@ quality charts using matplotlib and seaborn. Writing analytical findings
 in plain language accessible to non-technical stakeholders.
 
 **Database and SQL**
-Designing and querying relational databases in PostgreSQL. Writing
-analytical SQL including window functions, CTEs and aggregations.
-Loading, transforming and validating data between Python and SQL
-environments.
+Designing and querying relational databases in PostgreSQL and Azure SQL
+Database. Writing analytical SQL including window functions, CTEs and
+aggregations. Loading, transforming and validating data between Python,
+cloud storage and SQL environments.
 
 ---
 
 ## Portfolio Projects
+
+
+**Retail Demand Forecasting on Azure**
+The business question: Can a validated forecasting model outperform naive seasonal planning enough to justify acting on a 90-day demand forecast, and where is the greatest inventory and seasonal risk sitting in the business?
+
+4.5 million daily transaction records across 50 stores and multiple SKUs analysed on a full Azure cloud pipeline, Blob Storage, Data Factory and Azure SQL Database. Prophet forecasting model backtested against a naive baseline on a 90-day holdout across the five highest-volume SKU-store combinations. Delivered findings through a single decision-oriented Power BI dashboard connected directly to Azure SQL Database.
+
+Outcome: Prophet reduced forecast error by roughly 50% against the naive baseline across every SKU-store combination tested, for example cutting MAPE from 19.3% to 10.7% on the highest-volume item. Identified a recurring seasonal revenue dip every September, holding in 4 of the last 5 years. Isolated five SKU-store combinations, all connected to a single high-demand item, carrying the highest stockout risk in the catalogue.
+
+Transferable value: Cloud data pipeline architecture, time series forecasting, model validation and benchmarking, retail inventory analytics.
+Stack: Python · Prophet · Azure Data Factory · Azure SQL Database · Azure Blob Storage · Power BI · pandas · scikit-learn
+
+[View Project](https://github.com/Kingsley-Eboh/retail-demand-forecasting-azure)
+
+---
 
 **Bank Customer Churn Prediction**
 The business question: Which retail banking customers are most likely
