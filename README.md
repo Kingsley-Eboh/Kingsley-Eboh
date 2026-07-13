@@ -300,12 +300,9 @@ professional analytical work and across every project in this portfolio.
 
 ## Currently Building
 
-## Currently Building
+**A/B Testing and Causal Inference**
+Applying experimentation and difference-in-differences methodology to
+quantify the causal impact of interventions on business outcomes,
+rather than relying on observational correlation alone.
 
-**Sales Forecasting — Retail**
-Predicting future sales volumes using historical transaction data to
-support inventory planning and revenue forecasting decisions.
 
-**Credit Card Fraud Detection — Finance**
-Identifying fraudulent transactions using anomaly detection and
-classification methods on imbalanced financial data.
