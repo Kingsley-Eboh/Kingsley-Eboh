@@ -98,6 +98,7 @@ cloud storage and SQL environments.
 
 
 **Retail Demand Forecasting on Azure**
+
 The business question: Can a validated forecasting model outperform naive seasonal planning enough to justify acting on a 90-day demand forecast, and where is the greatest inventory and seasonal risk sitting in the business?
 
 4.5 million daily transaction records across 50 stores and multiple SKUs analysed on a full Azure cloud pipeline, Blob Storage, Data Factory and Azure SQL Database. Prophet forecasting model backtested against a naive baseline on a 90-day holdout across the five highest-volume SKU-store combinations. Delivered findings through a single decision-oriented Power BI dashboard connected directly to Azure SQL Database.
@@ -112,6 +113,7 @@ Stack: Python · Prophet · Azure Data Factory · Azure SQL Database · Azure Bl
 ---
 
 **Bank Customer Churn Prediction**
+
 The business question: Which retail banking customers are most likely
 to close their accounts, and what factors are driving that decision?
 
@@ -144,6 +146,7 @@ SQL · Jupyter · pandas
 ---
 
 **Clinical Trials Analysis**
+
 The business question: What do 10 years of clinical trial registrations
 reveal about pipeline efficiency, phase attrition and therapeutic area
 trends across major pharmaceutical sponsors?
@@ -174,6 +177,7 @@ Stack: Python · PostgreSQL · Power BI · SQL · Jupyter · pandas · REST API
 ---
 
 **NHS Referral to Treatment: Performance Analysis**
+
 The business question: Is the NHS meeting its 18-week constitutional
 standard and where are the greatest performance pressures?
 
@@ -195,6 +199,7 @@ Stack: Python · PostgreSQL · Power BI · SQL · Jupyter · pandas
 ---
 
 **NHS A&E: Emergency Care Analysis**
+
 The business question: What is the scale of A&E performance failure
 and how does winter pressure affect emergency care capacity?
 
@@ -217,6 +222,7 @@ matplotlib · seaborn
 ---
 
 **FDA Pharmacovigilance: Signal Detection Analysis**
+
 The business question: Which drugs in the FDA adverse event database
 carry the highest safety risk and what specific reactions are
 statistically elevated?
@@ -243,6 +249,7 @@ Stack: Python · PostgreSQL · Power BI · SQL · Jupyter · REST API
 ---
 
 **Enterprise Security Detection Lab**
+
 The business question: Can enterprise authentication attacks be reliably
 detected using Windows Security event logging?
 
