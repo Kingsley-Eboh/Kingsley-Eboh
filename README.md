@@ -23,7 +23,7 @@ England &nbsp;|&nbsp;
 
 ## About Me
 
-I am a data analyst with seven years of experience working with complex datasets in environments where accuracy, governance and the reliability of analytical outputs directly affect the quality of decisions made. My work has involved large scale data analysis, data quality assessment, root cause investigation, governance documentation and explaining complex findings clearly to both technical and non-technical audiences.
+I am a data analyst with five years of experience working with complex datasets in environments where accuracy, governance and the reliability of analytical outputs directly affect the quality of decisions made. My work has involved large scale data analysis, data quality assessment, root cause investigation, governance documentation and explaining complex findings clearly to both technical and non-technical audiences.
 
 I came to data analytics through years spent in regulated environments, where a single data error had direct consequences for real people, where audit readiness was not optional, and where the line between a finding and a conclusion was treated with real seriousness. I have carried that discipline forward into every analytical problem I have worked on since, regardless of domain.
 
